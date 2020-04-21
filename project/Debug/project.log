@@ -1,0 +1,18 @@
+﻿  modelo.cpp
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(199,12): warning C4101: 'a': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(200,16): warning C4101: 'l3': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(200,8): warning C4101: 'l1': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(199,17): warning C4101: 'b': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(200,12): warning C4101: 'l2': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(200,20): warning C4101: 's': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(200,23): warning C4101: 'l': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(199,22): warning C4101: 'c': unreferenced local variable
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(453,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(762,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(773,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(833,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(844,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(905,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(916,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Utilizador\Desktop\POO\project\project\modelo.cpp(932): warning C4715: 'modelo::FaceMaiorCurvatura': not all control paths return a value
+  project.vcxproj -> C:\Users\Utilizador\Desktop\POO\project\Debug\project.exe
